@@ -31,5 +31,26 @@ public class BaseAPIClass
 	public void asConfig() throws Throwable
 	{
 		dLib.closeDB();
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
 	}
 }
